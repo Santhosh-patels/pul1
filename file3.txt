@@ -1,1 +1,2 @@
 first line file3.txt in dev1 branch
+2nd line added in flile3.txt at deve1 brach
